@@ -1,4 +1,7 @@
 This is a front-end recreation of Marvel website built using HTML and CSS. This helped me understand the basics of HTML and CSS. Being my first experience in Web Designing this marks the beginning of my Web Development Journey.
+<br>
+<a herf="https://avichalmaurya.github.io/Marvel-Clone/"> Click here </a> to view the website.
+Note: My advice is to open it on desktop.
 <img width="1895" height="934" alt="marvel-clone1" src="https://github.com/user-attachments/assets/232f4ddd-742f-4271-818b-5be6bb8ddf95" />
 <img width="1763" height="844" alt="marvel-clone2" src="https://github.com/user-attachments/assets/e2440a4f-f217-41fd-8130-bfc4e2039eb5" />
 <img width="1763" height="844" alt="marvel-clone4" src="https://github.com/user-attachments/assets/418d14b6-241a-45eb-976c-90522b1b8ded" />
